@@ -1,1 +1,5 @@
 Lista de comidas
+panqueques
+pizza
+pastas
+sopas
