@@ -3,6 +3,9 @@ panqueques
 pizza
 pastas
 sopas
+empanadas
+carnes rojas y blancas
+mariscos
 
 Lista de postres:
 Flan
